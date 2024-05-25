@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://courses.inpyjama.com/</loc>
+    <loc>https://gooter-goo.github.io/hugo_test_1/</loc>
     <lastmod>2024-05-25T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://courses.inpyjama.com/posts/</loc>
+    <loc>https://gooter-goo.github.io/hugo_test_1/posts/my-first-post/</loc>
     <lastmod>2024-05-25T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://courses.inpyjama.com/categories/</loc>
+    <loc>https://gooter-goo.github.io/hugo_test_1/posts/</loc>
+    <lastmod>2024-05-25T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://courses.inpyjama.com/tags/</loc>
+    <loc>https://gooter-goo.github.io/hugo_test_1/categories/</loc>
+  </url><url>
+    <loc>https://gooter-goo.github.io/hugo_test_1/tags/</loc>
   </url>
 </urlset>
