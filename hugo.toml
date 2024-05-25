@@ -1,4 +1,4 @@
-baseURL = 'https://courses.inpyjama.com/'
+baseURL = 'https://gooter-goo.github.io/hugo_test_1/'
 languageCode = 'en-us'
 title = 'Hugo Test Site'
 theme = 'ananke'
