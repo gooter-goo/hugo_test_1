@@ -22,5 +22,12 @@
       <guid>https://gooter-goo.github.io/hugo_test_1/posts/my-second-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website! Teri tooooooooooo!!</description>
     </item>
+    <item>
+      <title>My Third Post</title>
+      <link>https://gooter-goo.github.io/hugo_test_1/posts/my-third-post/</link>
+      <pubDate>Sat, 25 May 2024 07:07:07 +0100</pubDate>
+      <guid>https://gooter-goo.github.io/hugo_test_1/posts/my-third-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website! Teri tooooooooooooooooooooooooooooooooooooooooo!!</description>
+    </item>
   </channel>
 </rss>
