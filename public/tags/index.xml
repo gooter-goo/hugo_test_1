@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Test Site</title>
-    <link>https://gooter-goo.github.io/hugo_test_1/tags/</link>
+    <link>https://courses.inpyjama.com/tags/</link>
     <description>Recent content in Tags on Hugo Test Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://gooter-goo.github.io/hugo_test_1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courses.inpyjama.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
