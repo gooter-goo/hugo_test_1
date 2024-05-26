@@ -1,4 +1,0 @@
-baseURL = 'https://courses.inpyjama.com/'
-languageCode = 'en-us'
-title = 'Hugo Test Site'
-theme = 'ananke'
