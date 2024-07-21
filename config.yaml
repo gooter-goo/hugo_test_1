@@ -9,9 +9,9 @@ title: " Courses, in Pyjama!"
 summaryLength: 20
 
 params:
-  title: "Courses by inpyjama!"
+  title: "The in Pyjama team!"
   images:
-    - "hero-image.jpg"
+    - "hero-image.png"
 
   logo: "logo.png"
 
@@ -44,10 +44,22 @@ menus:
       url: "/about"
       weight: 2
 
-  buttons:
-    - name: "Explore Courses"
-      url: "/#"
+    - name: "Discord"
+      url: "https://discord.com/servers/embedded-systems-party-inpyjama-1165531784293912576"
+      weight: 3
+
+    - name: "YouTube"
+      url: "https://youtube.com/@inpyjama"
+      weight: 4
+
+    - name: "News Letter"
+      url: https://engineers.inpyjama.com/learn/embed-forms?formId=778
       weight: 5
+
+  buttons:
+    - name: "Courses Store"
+      url: "https://learn.inpyjama.com/web/lite/store/65e18d38bf99dcd8b8119dcf"
+      weight: 3
       pre: "btn btn-primary text-light"
 
   footer:
@@ -56,12 +68,21 @@ menus:
       weight: 1
 
     - name: "Our team"
-      url: "/#"
+      url: "/about"
+      weight: 2
+
+    - name: "Discord"
+      url: "https://discord.com/servers/embedded-systems-party-inpyjama-1165531784293912576"
       weight: 3
 
-    - name: "Blog"
-      url: "/#"
+    - name: "YouTube"
+      url: "https://youtube.com/@inpyjama"
+      weight: 4
+
+    - name: "News Letter"
+      url: https://engineers.inpyjama.com/learn/embed-forms?formId=778
       weight: 5
+
 
 taxonomies:
   series: "series"

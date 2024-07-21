@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Discord Server"
-  image: "images/community.png"
+  title: "Get all the Courses at a Discount!"
+  image: "images/library.png"
   button:
-    label: "Join the conversation"
-    url: "https://discord.com/servers/embedded-systems-party-inpyjama-1165531784293912576"
+    label: "Grab the Deal!"
+    url: "https://learn.inpyjama.com/web/checkout/66969c88a05f68addd0048e9"

@@ -2,8 +2,18 @@ enabled: true
 id: "hero"
 
 content:
-  title: "**Control** the Environment ..."
-  text: "Embedded Systems is computing that you don't immediately see but exists within the electronics. Typically involves a CPU that is coordinating state changes... To become better at Embedded Systems Software Engineering master **CPUs**, **C/Assembly** Language, **Operating Systems**, **FPGAs** and the **Build Tools**! \n
+  title: "The **Team!**"
+  text: "We at inpyjama are on a mission to lowering the barrier to entry to learning Embedded Systems. Each one of us has almost a decade of experience working on lower level software (and hardware) deployed on Embedded Systems. We have insights into how systems work and how one should go about understanding and navigating the complexity involved.\n
 
-  Every Embedded systems development will have at least three of these five! \n"
+  **There is a way to look at things**. Once you know that - the system abstractions become clear and the complexity becomes manageable. We intend to teach such insights so you can excel at Embedded Software Engineering.
+  \n
 
+  Along the way, hopefully you will also become a very capable software engineer. Who, unlike the DSA champions actually understand and can reason about the underlying systems level details..."
+
+  buttonPrimary:
+    label: "Join Us on Discord"
+    url: "https://discord.com/servers/embedded-systems-party-inpyjama-1165531784293912576"
+
+  buttonSecondary:
+    label: "More about the team"
+    url: "/about"

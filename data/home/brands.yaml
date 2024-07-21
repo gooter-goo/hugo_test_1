@@ -2,7 +2,7 @@ enabled: false
 id: "brands"
 
 content:
-  title: "We know how to get in, perform and do so on REPEAT!"
+  title: "The team has interviewed at, extended an offer by, have worked at or are currently employed by the following companies. We know what works and what doesn't in terms of the skills, the mindset and the insights..."
   items:
     - "images/amazon.png"
     - "images/microchip.png"
