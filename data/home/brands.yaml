@@ -1,11 +1,24 @@
-enabled: true
+enabled: false
 id: "brands"
 
 content:
-  title: "We work with customers brands and startups "
+  title: "We know how to get in, perform and do so on REPEAT!"
   items:
-    - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
+    - "images/amazon.png"
+    - "images/microchip.png"
+    - "images/aricent.png"
+    - "images/microsoft.png"
+    - "images/arm.png"
+    - "images/nvidia.png"
+    - "images/atmel.png"
+    - "images/qualcomm.jpg"
+    - "images/bosch.png"
+    - "images/samsung.jpg"
+    - "images/cisco.png"
+    - "images/sifive.png"
+    - "images/google.jpg"
+    - "images/synopsys.png"
+    - "images/intel.png"
+    - "images/texasinstrument.png"
+    - "images/meta.png"
+

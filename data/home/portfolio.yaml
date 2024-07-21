@@ -2,38 +2,84 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/c.jpg"
+    pretitle: "Why master "
+    title: "C and Assembly"
+    text: "In embedded systems, Assembly language is often used to program
+microcontrollers or other small computers. This is because Assembly
+provides a level of control and low-level manipulation that is not
+possible with higher-level languages like C.
+C is also commonly used in embedded systems, particularly when portability
+and ease of development are important considerations. C's syntax is
+similar to that of Assembly, but it provides additional features like
+structured programming, variables, and pointers, which can make code more
+readable and maintainable."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+  - image: "images/cpu.jpg"
+    pretitle: "The role of"
+    title: "CPU - Architecture and ISA"
+    text: "The Central Processing Unit (CPU) plays a crucial role in embedded
+systems, serving as the brain that executes instructions and controls the
+system's behavior. In an embedded system, the CPU manages interactions
+between sensors, actuators, and other peripherals, processing data from
+sensors, performing calculations, and controlling output devices. It also
+handles tasks such as storing and retrieving data from memory, handling
+interrupts, and executing pre-programmed instructions or algorithms to
+perform specific functions. The CPU's role is often characterized by its
+ability to operate in real-time, responding quickly to changing conditions
+and making decisions based on the system's inputs and outputs, enabling it
+to control complex systems like robots, medical devices, or autonomous
+vehicles."
 
-      - label: "Read more"
-        url: "#"
+  - image: "images/os.jpg"
+    pretitle: "what is the use of "
+    title: "Operating Systems"
+    text: "In embedded systems, an Operating System (OS) plays a crucial role in
+managing hardware resources, such as memory, I/O devices, and peripherals,
+to ensure efficient and reliable system operation. Unlike traditional
+desktop or server-based OSes, embedded OSes are designed to be
+lightweight, compact, and real-time capable, often using specialized
+architectures and optimized for specific applications. They provide
+essential services like process scheduling, memory management, and
+interrupt handling, while also offering features like device drivers, file
+systems, and networking protocols. In an embedded system, the OS enables
+devices to interact with each other, manage data storage and retrieval,
+and execute complex tasks, making it a critical component in applications
+such as industrial automation, medical equipment, and automotive
+electronics."
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/fpga.jpg"
+    pretitle: "What are and why learn"
+    title: "FPGAs"
+    text: "Field-Programmable Gate Arrays  (FPGAs) play a unique role in embedded
+systems development by providing a flexible and reconfigurable platform
+for implementing custom digital logic. Unlike Application-Specific
+Integrated Circuits  (ASICs), which are designed specifically for a
+particular task, FPGAs can be programmed to perform a wide range of
+functions, allowing developers to quickly prototype, test, and deploy
+complex algorithms or protocols. In an embedded system, FPGAs can be used
+to accelerate specific tasks, such as signal processing, encryption, or
+compression, while also reducing power consumption and increasing system
+reliability. Additionally, FPGAs can serve as a bridge between software
+and hardware development, allowing developers to implement algorithms in
+software and then optimize them for hardware execution on the FPGA before
+implementing them in an ASIC."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+  - image: "images/build.jpg"
+    pretitle: "The reasons for learning "
+    title: "Build Tools"
+    text: "Built tools such as GCC (GNU Compiler Collection) play a crucial role in
+embedded systems development by providing a means to compile, assemble,
+and link code for microcontrollers and other embedded processors. GCC is
+particularly well-suited for embedded systems due to its ability to
+generate optimized machine code for specific target architectures, taking
+into account the limited resources and constraints of these devices. With
+GCC, developers can write C or assembly language code on a host platform
+and then compile it to run natively on an embedded processor, without
+requiring any knowledge of low-level programming languages or
+hardware-specific details. This allows developers to focus on implementing
+the system's logic and functionality, rather than worrying about the
+intricacies of the target processor. Additionally, GCC provides features
+such as debugging symbols, profiling information, and optimization options
+that can be used to fine-tune code performance and debug issues in
+embedded systems."

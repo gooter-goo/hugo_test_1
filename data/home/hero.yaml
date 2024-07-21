@@ -2,14 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "**Control** the Environment ..."
+  text: "Embedded Systems is computing that you don't immediately see but exists within the electronics. Typically involves a CPU that is coordinating state changes... To become better at Embedded Systems Software Engineering master **CPUs**, **C/Assembly** Language, **Operating Systems**, **FPGAs** and the **Build Tools**! \n
 
-  buttonPrimary:
-    label: "How we work"
-    url: "#"
-
-  buttonSecondary:
-    label: "Let's talk"
-    url: ""
+  Every Embedded systems development will have at least three of these five! \n"
 

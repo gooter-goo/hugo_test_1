@@ -2,9 +2,29 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Up your skills!"
+  text: "We have created the following courses around the various topics from the Virtuous Circle. These are filled with insights and are taught in ways that will enable you to think and act like a professional."
   cards:
+    - image: "images/course-c-pointers.png"
+      title: "C Pointers"
+      text: "C Pointers is a must know for every Embedded Systems Engineer. This course dives into the mental models, underlying details and provides a deep understanding of how pointers in C work."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Web development"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Web development"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
     - image: "images/services-web-development.png"
       title: "Web development"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "

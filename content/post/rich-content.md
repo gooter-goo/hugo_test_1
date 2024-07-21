@@ -19,16 +19,6 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 <br>
 
----
-
-## Twitter Simple Shortcode
-
-{{< twitter_simple user="SanDiegoZoo" id="1453110110599868418" >}}
-
-<br>
-
----
-
 ## Vimeo Simple Shortcode
 
 {{< vimeo_simple 48912912 >}}
