@@ -2,7 +2,7 @@ baseURL: "https://courses.inpyjama.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: " Courses, in Pyjama!"
+title: "Learning Embedded Systems!"
 
 # googleAnalytics: ""
 
@@ -44,7 +44,7 @@ menus:
       url: "/about"
       weight: 2
 
-    - name: "Discord"
+    - name: "Community"
       url: "https://discord.com/servers/embedded-systems-party-inpyjama-1165531784293912576"
       weight: 3
 
@@ -52,14 +52,14 @@ menus:
       url: "https://youtube.com/@inpyjama"
       weight: 4
 
-    - name: "Newsletter"
-      url: https://engineers.inpyjama.com/learn/embed-forms?formId=778
+    - name: "Courses"
+      url: "https://learn.inpyjama.com/web/lite/store/65e18d38bf99dcd8b8119dcf"
       weight: 5
 
   buttons:
-    - name: "Buy Courses"
-      url: "https://learn.inpyjama.com/web/lite/store/65e18d38bf99dcd8b8119dcf"
-      weight: 3
+    - name: "Newsletter"
+      url: "https://engineers.inpyjama.com/learn/embed-forms?formId=778"
+      weight: 5
       pre: "btn btn-primary text-light"
 
   footer:
@@ -80,7 +80,7 @@ menus:
       weight: 4
 
     - name: "Newsletter"
-      url: https://engineers.inpyjama.com/learn/embed-forms?formId=778
+      url: "https://engineers.inpyjama.com/learn/embed-forms?formId=778"
       weight: 5
 
 

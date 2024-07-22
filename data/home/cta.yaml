@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "All courses in one ..."
+  title: "Join the band of Engineers"
   image: "images/library.jpg"
   button:
-    label: "Access the Library!"
-    url: "https://learn.inpyjama.com/web/checkout/66969c88a05f68addd0048e9"
+    label: "Subscribe to the Newsletter!"
+    url: "https://engineers.inpyjama.com/learn/embed-forms?formId=778"

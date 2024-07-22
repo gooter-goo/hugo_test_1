@@ -2,8 +2,8 @@ enabled: true
 id: "services"
 
 content:
-  title: "Learn the insights from us..."
-  text: "The courses listed below are full of insights we have learned over the past decade by working on various Embedded Systems solution. You don't have to learn everything the hard way as we did. Stand on out shoulders and jump higher!"
+  title: "Insights we recorded for you!"
+  text: "We are recording study tracks that is specifically designed to pass you the insights and secret sauce we learnt over the past decade."
   cards:
     - image: "images/c-pointers.png"
       title: "C Pointers"
