@@ -2,47 +2,47 @@ enabled: true
 id: "services"
 
 content:
-  title: "Up your skills!"
-  text: "We have created the following courses around the various topics from the Virtuous Circle. These are filled with insights and are taught in ways that will enable you to think and act like a professional."
+  title: "Learn the insights from us..."
+  text: "The courses listed below are full of insights we have learned over the past decade by working on various Embedded Systems solution. You don't have to learn everything the hard way as we did. Stand on out shoulders and jump higher!"
   cards:
     - image: "images/c-pointers.png"
       title: "C Pointers"
-      text: ""
+      text: "Learn ways to Visualize, Think, Reason, and Design using pointers like professionals do!"
       button:
         label: "Get the Course!"
         url: "https://learn.inpyjama.com/l/b609fee55a"
 
     - image: "images/make.png"
       title: "Make and Makefiles"
-      text: ""
+      text: "'make' is at the base of almost all build systems and is a must know for Embedded Systems Engineers!"
       button:
         label: "Get the Course!"
         url: "https://learn.inpyjama.com/l/bcd06b88de"
 
     - image: "images/ld.png"
       title: "Linker Script"
-      text: ""
+      text: "The senior 'Embedded Systems' Ninjas know the black magic of how to control the placement of code and data in the memory!"
       button:
         label: "Get the Course!"
         url: "https://learn.inpyjama.com/l/b787ee9ddc"
 
     - image: "images/arm-m.png"
       title: "ARM Cortex-M 101"
-      text: ""
+      text: "An introduction to the CPU that is found in almost all embedded systems solution. There are more of these on the planet than us humans..."
       button:
         label: "Get it Now (Free!)"
         url: "https://learn.inpyjama.com/l/33afed2423"
 
     - image: "images/arm-a.png"
-      title: "ARMv8-A (aarch64) 101"
-      text: ""
+      title: "ARMv8-A 101"
+      text: "Introduction to the CPU that powers all the Mobile phones. and in the times making its way into the PCs and MACs."
       button:
         label: "Get it Now (Free!)"
         url: "https://learn.inpyjama.com/l/055ff84233"
 
     - image: "images/ldd.png"
-      title: "Linux Device Drivers 101"
-      text: ""
+      title: "Device Drivers 101"
+      text: "An introduction to writing device drivers for Linux! For those wanting to gets a clear idea of how Linux device drivers are to be written."
       button:
         label: "Get it Now (Free!)"
         url: "https://engineers.inpyjama.com/learn/ldd-101"

@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Get all the Courses at a Discount!"
-  image: "images/library.png"
+  title: "All courses in one ..."
+  image: "images/library.jpg"
   button:
-    label: "Grab the Deal!"
+    label: "Access the Library!"
     url: "https://learn.inpyjama.com/web/checkout/66969c88a05f68addd0048e9"

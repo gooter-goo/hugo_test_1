@@ -23,37 +23,13 @@ content:
     text: "How can we get one CPU to execute code for multiple tasks in a round robin fashion? The answer is - Using a Scheduler. Such a layer of software that manages tasks and then by extension the hardware is referred to as the Operating System."
 
   - image: "images/fpga.jpg"
-    pretitle: "What are and why learn"
-    title: "FPGAs"
+    pretitle: "ok, but why learn"
+    title: "FPGAs?"
     text: "Field-Programmable Gate Arrays  (FPGAs) play a unique role in embedded
 systems development by providing a flexible and reconfigurable platform
-for implementing custom digital logic. Unlike Application-Specific
-Integrated Circuits  (ASICs), which are designed specifically for a
-particular task, FPGAs can be programmed to perform a wide range of
-functions, allowing developers to quickly prototype, test, and deploy
-complex algorithms or protocols. In an embedded system, FPGAs can be used
-to accelerate specific tasks, such as signal processing, encryption, or
-compression, while also reducing power consumption and increasing system
-reliability. Additionally, FPGAs can serve as a bridge between software
-and hardware development, allowing developers to implement algorithms in
-software and then optimize them for hardware execution on the FPGA before
-implementing them in an ASIC."
+for implementing custom digital logic. Imagine, what happens when hardware is being developed, what will the software engineers be doing? They will typically be using some sort of emulator or FPGAs to deploy the RTL (hardware design) on it and develop the software in parallel and make it ready by the time the Silicon (actual) chip arrives. Having an idea about how the hardware design flow works and trying/deploying circuits on FPGAs go a long way in terms of reasoning about how the CPUs and Peripherals might be working."
 
   - image: "images/build.jpg"
-    pretitle: "The reasons for learning "
-    title: "Build Tools"
-    text: "Built tools such as GCC (GNU Compiler Collection) play a crucial role in
-embedded systems development by providing a means to compile, assemble,
-and link code for microcontrollers and other embedded processors. GCC is
-particularly well-suited for embedded systems due to its ability to
-generate optimized machine code for specific target architectures, taking
-into account the limited resources and constraints of these devices. With
-GCC, developers can write C or assembly language code on a host platform
-and then compile it to run natively on an embedded processor, without
-requiring any knowledge of low-level programming languages or
-hardware-specific details. This allows developers to focus on implementing
-the system's logic and functionality, rather than worrying about the
-intricacies of the target processor. Additionally, GCC provides features
-such as debugging symbols, profiling information, and optimization options
-that can be used to fine-tune code performance and debug issues in
-embedded systems."
+    pretitle: "and why should we learn"
+    title: "Build Tools?"
+    text: "Build tools are the utilities help automate and convert the code to the binary the CPUs/FPGAs can understand. Not only this but tools/utilities also help us debug, automate, convert etc the solutions we develop. These tools typically involve - compiler toolchain, make, shell scripting, gdb etc and are an absolute 'must know' for an embedded software engineer."

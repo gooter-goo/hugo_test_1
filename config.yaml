@@ -52,12 +52,12 @@ menus:
       url: "https://youtube.com/@inpyjama"
       weight: 4
 
-    - name: "News Letter"
+    - name: "Newsletter"
       url: https://engineers.inpyjama.com/learn/embed-forms?formId=778
       weight: 5
 
   buttons:
-    - name: "Courses Store"
+    - name: "Buy Courses"
       url: "https://learn.inpyjama.com/web/lite/store/65e18d38bf99dcd8b8119dcf"
       weight: 3
       pre: "btn btn-primary text-light"
@@ -67,7 +67,7 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "Our team"
+    - name: "The Team"
       url: "/about"
       weight: 2
 
@@ -79,7 +79,7 @@ menus:
       url: "https://youtube.com/@inpyjama"
       weight: 4
 
-    - name: "News Letter"
+    - name: "Newsletter"
       url: https://engineers.inpyjama.com/learn/embed-forms?formId=778
       weight: 5
 
